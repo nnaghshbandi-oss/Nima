@@ -104,3 +104,6 @@ function clearNimaAI() {
   document.getElementById("nima-ai-thinking").style.display = "none";
   lastCategory = null;
 }
+function toggleAnswer(card) {
+  card.classList.toggle("open");
+}
