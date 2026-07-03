@@ -55,8 +55,8 @@ const categories = {
 const keywords = {
   kollegen: ["kollege", "kollegin", "kollegen", "domi", "chef", "chefin", "teamleiter", "ela", "nervt", "nerven", "opfer", "ärgern", "aergern", "person"],
   kaffee: ["kaffee", "coffee", "müde", "muede", "wach", "espresso", "koffein", "cappuccino"],
-  vermissen: ["vermiss", "traurig", "nürnberg", "nuernberg", "weg", "zurück", "zurueck", "fehlen", "Herne", "Bochum"],
-  it: ["passwort", "drucker", "computer", "pc", "login", "UHD", "it", "technik", "system", "ticket", "neustart", "funktioniert"],
+  vermissen: ["vermiss", "traurig", "nürnberg", "nuernberg", "weg", "zurück", "zurueck", "fehlen", "Herne"],
+  it: ["passwort", "drucker", "computer", "pc", "login", "wlan", "it", "technik", "system", "ticket", "neustart", "funktioniert"],
   krank: ["krank", "gesund", "krankmeldung", "gesundmeldung", "arbeitsunfähig", "arbeitsunfaehig", "au", "fieber"],
   organisation: ["dienstplan", "urlaub", "termin", "besprechung", "orga", "organisatorisch", "planung", "team", "einsatz", "vertretung"],
   fachlich: ["fachlich", "sgb", "gesetz", "paragraph", "weisung", "bakira", "faq", "leistung", "anspruch", "alg"]
