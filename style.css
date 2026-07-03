@@ -87,7 +87,7 @@ body {
   height:148px;
   margin:0 auto 22px;
   border-radius:50%;
-  background-image:url("assets/nima-avatar.png");
+  background-image:url("nima-avatar.png");
   background-size:cover;
   background-position:center;
   border:4px solid var(--orange);
@@ -208,7 +208,7 @@ body {
   overflow:hidden;
   background-image:
     linear-gradient(180deg,rgba(0,0,0,.42),rgba(0,0,0,.18) 38%,rgba(0,0,0,.88)),
-    url("assets/office-hero.jpg");
+    url("office-hero.jpg");
   background-size:cover;
   background-position:center;
   border:1px solid rgba(255,255,255,.12);
